@@ -96,7 +96,7 @@ def all_ads_info(url, total_pages, all_ads_data):
     :param all_ads_data:
     :return:
     """
-    for i in range(509, total_pages + 1):
+    for i in range(1, total_pages + 1):
         changed_url = f"{url}?page={i}"
         response = req.get(changed_url, headers=headers, timeout=10)
 
