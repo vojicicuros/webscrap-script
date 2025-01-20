@@ -23,3 +23,6 @@ This project is a web scraping tool designed to extract car advertisement data f
 -The output will be saved in an Excel file named ads_data.xlsx.
 
 This tool is ideal for anyone looking to analyze car listings from polovniautomobili.com or integrate this data into larger projects or datasets.
+
+**Dataset**:
+![{BF46677B-2583-421A-8440-67D323F92994}](https://github.com/user-attachments/assets/e48d2d4f-282d-44ec-a05e-ca6ac1fb2bfd)
