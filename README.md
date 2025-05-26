@@ -1,6 +1,6 @@
-# polovnjaci_scrap
-**Project Overview: Polovni Automobili Scraper**
-This project is a web scraping tool designed to extract car advertisement data from polovniautomobili.com, a popular Serbian website for buying and selling used cars. The tool gathers detailed information about each car listing and exports the data into an Excel file for easy analysis and further use.
+# Webscraper
+**Project Overview: Used Car Website Scraper**
+This project is a web scraping tool designed to extract car advertisement data from popular website for buying and selling used cars. The tool gathers detailed information about each car listing and exports the data into an Excel file for easy analysis and further use.
 
 **Key Features:**
 -Ad and Page Count: Automatically calculates the total number of ads and pages to scrape.
@@ -22,7 +22,7 @@ This project is a web scraping tool designed to extract car advertisement data f
 -Run the script to start scraping data.
 -The output will be saved in an Excel file named ads_data.xlsx.
 
-This tool is ideal for anyone looking to analyze car listings from polovniautomobili.com or integrate this data into larger projects or datasets.
+This tool is ideal for anyone looking to analyze car listings integrate this data into larger projects or datasets.
 
 **Dataset**:
 ![{BF46677B-2583-421A-8440-67D323F92994}](https://github.com/user-attachments/assets/e48d2d4f-282d-44ec-a05e-ca6ac1fb2bfd)
